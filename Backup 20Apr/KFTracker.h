@@ -23,8 +23,6 @@ public:
   void track(int x, int y);
   void initializeKF(int x, int y);
   void draw(Mat img);
-  void clearPoints();
-  //Scalar randomColor(RNG &rng);
 protected:
 private:
 };
