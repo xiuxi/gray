@@ -5,4 +5,7 @@ This project was developed as a part of Capstone Project towards partial fulfill
 
 Samples tested are recorded inside the university campus. Anyone can avail samples upon request.
 
+*Note*: Please mention that you found my email on my GitHub repository(bvsravikiran).
+While sending an email, use your University email if available. Gmail and Outlook are also acceptable. No Spamming please.
+
 email : vsravikiran.b@gmail.com
